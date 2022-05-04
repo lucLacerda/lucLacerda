@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-# About Me
 -->
+# About Me
+
 <div>
 <a href="https://github.com/lucaszib">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszib&layout=compact&langs_count=7&theme=dark"/>
