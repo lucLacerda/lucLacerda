@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Lucaszib">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucaszib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucaszib&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaszib&layout=compact&langs_count=7&theme=darcula"/>
 </div>
   
@@ -18,14 +18,19 @@
   <img align="center" alt="Hanna-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Hanna-sql" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png" />
   <img align="center" alt="Hanna-sql" height="30" width="40" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png" />
-  <img align="right" alt="Hanna-pic" height="150" style="border-radius:50px;" src="http://pa1.narvii.com/6693/658a1912c3ccbe8c58224b50e6a9622023f3342d_00.gif">
 </div>
   
  ##
   
   <div> 
-  <a href="https://www.instagram.com/luclacerda7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucas.lacerda@bandtec.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-ribeiro-de-lacerda-426a021b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/luclacerda7/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:lucas.lacerda@bandtec.com.br">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-ribeiro-de-lacerda-426a021b4/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
  
 </div>
