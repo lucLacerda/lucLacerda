@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
+  <!--
 ![Snake animation](https://github.com/lucaszib/lucaszib/blob/output/github-contribution-grid-snake.svg)
+-->
