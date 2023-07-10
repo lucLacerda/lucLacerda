@@ -1,6 +1,6 @@
 ### Olá eu sou o Lucas Lacerda 👋
 
-- :office: Mottu
+- :office: Mottu - Desenvolvedor Mobile Flutter | Android Kotlin
 - ⚡ Curiosidade: Jogador caro
 
 <div align="center">
