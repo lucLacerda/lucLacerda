@@ -1,7 +1,6 @@
 ### Olá eu sou o Lucas Lacerda 👋
 
-- 🌱 Estudante SPTech School
-- :office: Estagiário Valemobi - TradeMap
+- :office: Mottu
 - ⚡ Curiosidade: Jogador caro
 
 <div align="center">
