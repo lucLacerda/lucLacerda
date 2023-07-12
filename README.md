@@ -1,7 +1,6 @@
 ### Olá eu sou o Lucas Lacerda 👋
 
 - :office: Mottu - Desenvolvedor Mobile Flutter | Android Kotlin
-- ⚡ Curiosidade: Jogador caro
 
 <div align="center">
   <a href="https://github.com/Lucaszib">
@@ -27,7 +26,7 @@
   <a href = "mailto:lucas.lacerda@bandtec.com.br">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/lucas-ribeiro-de-lacerda-426a021b4/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-lacerda-426a021b4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
  
