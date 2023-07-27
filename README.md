@@ -1,6 +1,7 @@
 ### Olá eu sou o Lucas Lacerda 👋
 
-- :office: Mottu - Desenvolvedor Mobile Flutter | Android Kotlin
+- :office: Mottu
+- 👨‍💻 Desenvolvedor Mobile PL Flutter | Android Kotlin
 
 <div align="center">
   <a href="https://github.com/Lucaszib">
